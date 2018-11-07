@@ -1,4 +1,4 @@
-# Example to share code between actors
+# Example: How to share code between actors
 
 ## How to use
 
