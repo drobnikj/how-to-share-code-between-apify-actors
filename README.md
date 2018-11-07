@@ -2,7 +2,7 @@
 
 ## How to use
 
-- You can place all your share code to share folder.
+- You can place all your share code to `shared` folder.
 - In each of your actor you need to add dependency to this shared package to package.json
 ```
 {
