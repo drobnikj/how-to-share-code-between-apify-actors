@@ -1,5 +1,9 @@
 # Example: How to share code between actors
 
+This is example how you can easily share code between actor using local built npm package. All magic is saved in `rebuild_shared.sh` script.
+
+If you want to use it in your project you nee to copy `rebuild_shared.sh` and `shared` into root of your project.
+
 ## How to use
 
 - You can place all your share code to `shared` folder.
