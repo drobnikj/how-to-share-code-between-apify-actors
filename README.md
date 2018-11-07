@@ -18,3 +18,4 @@
 - After that you need to rebuild shared package into all of your actors, using command `./rebuild_shared.sh` in root of repo.
 This commmand run bash script which rebuild shared into all of your actors.
 - After change in your code in shared you have to rebuild shared using `./rebuild_shared.sh` again.
+- NOTE: You have to commit `shared-1.0.0.tgz` into git if you want to have shared into actor on Apify platform.
